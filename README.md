@@ -3,4 +3,11 @@ This is python based project using opencv and pandas to create an attendance sys
 
 This project was accompolished by moodifying from the below mentioned project
 https://github.com/informramiz/opencv-face-recognition-python
-A ton thanks to its creators
+
+
+A ton thanks to its creators.
+
+
+Steps to run the project:
+
+
