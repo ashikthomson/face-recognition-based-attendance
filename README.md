@@ -1,7 +1,7 @@
 # face-recognition-based-attendance
 This is python based project using opencv and pandas to create an attendance system based on face recognition, where the attendance is continuously stored in an excel sheet
 
-This project was accompolished by modifying from the below mentioned project
+This project was accomplished from the face recognition tutorial project mentioned below
 
 https://github.com/informramiz/opencv-face-recognition-python
 
