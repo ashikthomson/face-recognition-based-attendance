@@ -22,7 +22,7 @@ Steps to run the project:
 
 1. Go to the folder training- data and run the python script capture.py
         The camera interface will open. If not try changing the parameter of Vidoecapture() method from 0 to 1 or viceversa. 
-        The person should face the camera and continuosly press space bar. A folder named 'test-data' will be created and photos will be stored inside it. Rename the folder to s1. 
+        The person should face the camera and continuosly press space bar. A folder named 'data' will be created and photos will be stored inside it. Rename the folder to s1. 
 
 
 Now again run the script with second person and change the folder to s2. 
