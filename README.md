@@ -22,14 +22,17 @@ Steps to run the project:
 
 1. Go to the folder training- data and run the python script capture.py
         The camera interface will open. If not try changing the parameter of Vidoecapture() method from 0 to 1 or viceversa. 
-        
-        The person should face the camera and continuosly press space bar. A folder named data will be created and photos will be               stored inside it. Rename the folder to s1. 
-        
-        Now again run the script with second person and change the folder to s2. 
+        The person should face the camera and continuosly press space bar. A folder named data will be created and photos will be stored inside it. Rename the folder to s1. 
+
+
+Now again run the script with second person and change the folder to s2. 
         Conitnue this as many times to include that much people for face recognition as s3, s4, s5 etc. 
-        Enter the names of the persons in the same order in the attendance_registed.xlxs file. Also add these names in the same order           replacing 'name1', 'name2' etc. in the subjects list in the file attendance.py
-      
-      
+        
+
+Enter the names of the persons in the same order in the attendance_registed.xlxs file. Also add these names in the same order replacing 'name1', 'name2' etc. in the subjects list in the file attendance.py
+     
+
+           
  2. Now the data is prepared in required order. Run the training.py script and let the training be complete. Now you will see a model.xml file generated in the main folder. This is the face data of the trained faces.
  
  3. Now sort the names in the attendance_register.xlxs file alphabetically (DO NOT do this in subjects list in attendance.py)
